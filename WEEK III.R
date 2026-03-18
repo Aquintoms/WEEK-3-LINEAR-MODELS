@@ -27,7 +27,7 @@ ggplot(cdf,aes(x = CYLINDERS)) +
 ggplot(cdf,aes(x = ENGINESIZE)) +
   geom_histogram(binwidth = 0.5, fill = "red", color = "black") +
   labs(title = "Histogram of Engine Size", x = "Engine Size", y = "Count")
-# This graph does not promote assumption of norma;ity
+# This graph does not promote assumption of normality
 
 ggplot(cdf,aes(x = FUELCONSUMPTION_COMB)) +
   geom_histogram(binwidth = 1, fill = "green", color = "black") +
