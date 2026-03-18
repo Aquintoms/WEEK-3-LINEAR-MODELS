@@ -1,0 +1,1 @@
+This work is with regards to a unit called Linear Models. Here we were investigating if our data (Fuel Consumption) was following linear model assumptions, especially the Assumption of normality. Other assumptions were considered such as linearity, whereby we were checking whether there was a relationship between the predictor and the response variable.
